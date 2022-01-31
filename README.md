@@ -1,5 +1,5 @@
-# SkyFab2CraftingTweaks
-Crafting Tweaks for the Sky Fabrication 2 mod pack
+# SkyFab2CraftingTweaks Datapack 
+Crafting Tweaks for the minecraft Sky Fabrication 2 mod pack
 
 ## Recipes Changed:
 * Blockus:paper_block replaces resourceful_tools:paper_ream recipe
